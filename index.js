@@ -3,6 +3,7 @@
 // write day : 2022_05_29
 // content : naver webtoon
 // iss53
+// finished the new footer [issue 53]
 
 const http = require('http');
 const express = require('express');
