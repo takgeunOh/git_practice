@@ -1,3 +1,7 @@
+// 작성자 : 오탁근
+// email : takgeun92@gmail.com
+// write day : 2022_05_29
+
 const http = require('http');
 const express = require('express');
 const app = express();
